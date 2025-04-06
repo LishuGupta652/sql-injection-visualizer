@@ -93,13 +93,6 @@ export const defaultPayloads: SQLPayload[] = [
     value: '//'
   },
   {
-    id: 'id-qogra3lxq-1743917105364',
-    name: 'Payload 14',
-    description: 'Generic SQL injection payload',
-    category: 'generic',
-    value: '\'
-  },
-  {
     id: 'id-jg9hl3wvr-1743917105364',
     name: 'Payload 15',
     description: 'Generic SQL injection payload',
