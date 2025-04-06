@@ -2,7 +2,7 @@ export interface SQLPayload {
   id: string;
   name: string;
   description: string;
-  category: 'tautology' | 'union' | 'stacked' | 'error' | 'custom';
+  category: 'tautology' | 'union' | 'stacked' | 'error' | 'custom' | 'generic' | 'time-based' | 'auth-based';
   value: string;
 }
 
